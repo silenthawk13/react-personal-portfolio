@@ -1,39 +1,40 @@
-import Proj1 from "../assets/proj1.jpg";
-import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
-import Proj5 from "../assets/proj5.jpg";
+import Proj1 from "../assets/proj1.png";
+import Proj2 from "../assets/proj2.png";
+import Proj3 from "../assets/proj3.png";
+import Proj4 from "../assets/proj4.png";
+import Proj5 from "../assets/proj5.png";
 import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Face Recognition App",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+
+    skills: "JavaScript,React,NodeJs",
   },
   {
-    name: "Ecommerce Website",
+    name: "Startup Event Of The Year",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "HTML, CSS",
   },
   {
-    name: "Spotify Clone",
+    name: "Ninja Name Service",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "React,Node.js,Solidity, blockchain",
   },
   {
-    name: "Social Media Website",
+    name: "ReactReserve",
     image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
+    skills: "React,Express,Node.js,MongoDB",
   },
   {
-    name: "Dashboard Visualizer",
+    name: "My NFT Collection",
     image: Proj5,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript,React,Solidity",
   },
   {
-    name: "Mobile Game",
+    name: "RobotFriends",
     image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: "JavaScript,React",
   },
 ];
