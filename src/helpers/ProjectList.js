@@ -10,7 +10,7 @@ export const ProjectList = [
     name: "Face Recognition App",
     image: Proj1,
 
-    skills: "JavaScript,React,NodeJs",
+    skills: "JavaScript,React,Machine Learning",
   },
   {
     name: "Startup Event Of The Year",

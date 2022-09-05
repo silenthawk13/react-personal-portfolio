@@ -68,7 +68,10 @@
   }
 
   .skills {
+    
     text-align: center;
+    
+    
   }
   .list {
     padding: 0;
@@ -76,5 +79,6 @@
 
   .skills h2 {
     font-size: 30px;
+  
   }
 }
