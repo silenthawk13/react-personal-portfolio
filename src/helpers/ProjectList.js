@@ -20,7 +20,7 @@ export const ProjectList = [
   {
     name: "Ninja Name Service",
     image: Proj3,
-    skills: "React,Node.js,Solidity",
+    skills: "React,Node.js,Solidity,Blockchain",
   },
   {
     name: "ReactReserve",
@@ -30,7 +30,7 @@ export const ProjectList = [
   {
     name: "My NFT Collection",
     image: Proj5,
-    skills: "JavaScript,React,Solidity",
+    skills: "JavaScript,React,Solidity,Blockchain",
   },
   {
     name: "RobotFriends",
