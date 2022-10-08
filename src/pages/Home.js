@@ -14,6 +14,8 @@ function Home() {
           <a
             href="https://www.linkedin.com/in/john-waithaka-733b54184/"
             className="linkedin social"
+            rel="noreferrer"
+            target="_blank"
           >
             <LinkedInIcon />
           </a>
@@ -25,6 +27,8 @@ function Home() {
           <a
             href="https://www.github.com/silenthawk13"
             className="github social"
+            rel="noreferrer"
+            target="_blank"
           >
             <GithubIcon />
           </a>
@@ -34,14 +38,14 @@ function Home() {
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">
-            <h2> Front-End</h2>
+            <h2>FrontEnd</h2>
             <span>
               ReactJS, React Native, HTML, CSS, SCSS, JavaScript, NPM,
               BootStrap, MaterialUI, Yarn, StyledComponents
             </span>
           </li>
           <li className="item">
-            <h2>Back-End</h2>
+            <h2>BackEnd</h2>
             <span>
               NodeJS, ExpressJS, Firebase, Google Maps, Machine Learning,
               PostgreSQL, MongoDB, Netlify, Stripe API, Ruby on Rails

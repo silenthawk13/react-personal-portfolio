@@ -49,7 +49,7 @@ function Experience() {
             Face Recognition App
           </h4>
           <p>
-            Built the front-end, backend and the database of the web app.
+            Built the frontend, backend and the database of the web app.
             Maintains the app to the present.
           </p>
         </VerticalTimelineElement>
@@ -67,8 +67,8 @@ function Experience() {
             Online e-commerce app
           </h4>
           <p>
-            Coded all the app and launched major features both in the front end
-            and back end. Still maintains the app to the present.
+            Coded all the app and launched major features both in the frontend
+            and backend. Still maintains the app to the present.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>

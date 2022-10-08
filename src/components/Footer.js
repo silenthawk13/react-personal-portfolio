@@ -12,18 +12,24 @@ function Footer() {
       <div className="socialMedia">
         <a
           href="https://www.twitter.com/silenthawk13"
-          className="twitter social"
+          className="twitter social" rel="noreferrer"
+          target="_blank"
         >
           <TwitterIcon />
         </a>
 
         <a
           href="https://www.linkedin.com/in/john-waithaka-733b54184/"
-          className="linkedin social"
+          className="linkedin social" rel="noreferrer"
+          target="_blank"
         >
           <LinkedInIcon />
         </a>
-        <a href="https://www.github.com/silenthawk13" className="github social">
+        <a
+          href="https://www.github.com/silenthawk13"
+          className="github social" rel="noreferrer"
+          target="_blank"
+        >
           <GithubIcon />
         </a>
       </div>
